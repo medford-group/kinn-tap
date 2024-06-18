@@ -3,7 +3,9 @@ This repo contains the code for the paper *"Fitting micro-kinetic models to tran
 
 ## Info
 Authors: Dingqi Nai, Gabriel S. Gusmão, Zachary A. Kilwein, Fani Boukouvala, Andrew J. Medford
+
 School of Chemical and Biomolecular Engineering, Georgia Institute of Technology
+
 Email correspondence: [dnai3@gatech.edu](mailto:dnai3@gatech.edu), [ajm@gatech.edu](mailto:ajm@gatech.edu)
 
 The following folders are included in this repo:
